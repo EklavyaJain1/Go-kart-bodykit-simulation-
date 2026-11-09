@@ -1,0 +1,6 @@
+{
+  "name": "APEX KARTWORKS - 3D Custom Go-Kart Studio",
+  "description": "Gamified 3D go-kart configurator and manufacturer studio. Customize chassis, aero wings, racing liveries, tires, rims, engines, neon underglow, and test drive in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
